@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn all about robotics technology, innovations, and how it's shaping the future.">
+    <title>Robotic Technology</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the World of Robotic Technology</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Robotics</a></li>
+                <li><a href="#innovations">Innovations</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Introduction to Robotic Technology</h2>
+        <p>Robotic technology is revolutionizing industries across the globe. From manufacturing to healthcare, robots are changing the way we live and work.</p>
+    </section>
+
+    <section id="about">
+        <h2>What is Robotics?</h2>
+        <p>Robotics is an interdisciplinary field of science and engineering dedicated to the design, construction, and use of mechanical robots.</p>
+    </section>
+
+    <section id="innovations">
+        <h2>Latest Innovations in Robotics</h2>
+        <ul>
+            <li>Autonomous Drones</li>
+            <li>Humanoid Robots</li>
+            <li>Industrial Automation</li>
+            <li>AI in Robotics</li>
+        </ul>
+    </section>
+
+    <footer>
+        <h3>Contact Us</h3>
+        <p>Email: info@robotictechnology.com</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
